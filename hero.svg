@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <rect width="1200" height="900" fill="#D9B99B"/>
+  <circle cx="600" cy="430" r="150" fill="#ffffff" fill-opacity="0.35"/>
+  <text x="50%" y="630" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#2B2118">Bild: kaféets hörn med fönsterbord</text>
+</svg>
